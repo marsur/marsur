@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marsur 
-- 👀 I’m interested in Linux, ansible, puppet
+- 👀 I’m interested in Linux, ansible, puppet, python
 - 🌱 I’m currently learning ansible
 - 💞️ I’m looking to collaborate with students
 - 📫 How to reach me? Write me ;-) 
